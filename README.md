@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 3b25570 (first commit)
->>>>>>> 938ad62 (second commit)
-# FullStack-project-using-SpringBoot-ReactJS
+
+# FullStack-project-using-SpringBoot-ReactJS (Frontend)
 In this project we use Java as Backend, spring Boot , React JS, MYSQL and Postman for Database
 
 Project Overview:
@@ -61,10 +55,12 @@ User Management:
 Ensuring efficient editing and deletion of users in your Spring Boot and React.js project while utilizing Axios for making PUT and DELETE requests to the backend.
 
 Viewing Specific User Information: users can view specific information about themselves or other users in your Spring Boot and React.js project. The backend endpoint retrieves the requested user's data from the database, while the frontend component fetches and displays this information to the user.
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
+
+
+Forntend part Link: https://github.com/Prashanthi9/FullStack-project-using-SpringBoot-ReactJS-Frontend
+
+Backend Part Link: https://github.com/Prashanthi9/FullStack-project-using-SpringBoot-ReactJS
+
 =======
 # Getting Started with Create React App
 
@@ -134,8 +130,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 4104b02 (first commit)
->>>>>>> 3b25570 (first commit)
->>>>>>> 938ad62 (second commit)
